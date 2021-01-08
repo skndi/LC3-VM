@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+LC-3.layout
+LC3.dev
+LC3.layout
+Makefile.win
